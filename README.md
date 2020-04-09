@@ -16,8 +16,8 @@ He’s already gone off to the castle, and now as you walk up to it, you look up
 
 ## Instructions:
 -The game starts off with you entering the courtyard, which is interspersed with skulls and other scary items. You come across 2 types of weapons - ***a sword and a spear***. But here's the catch. You can only carry one of those with you. The choice is not going to be easy and the choice will go a long way in deciding your fate in the game.
-- After picking up a weapon, you get to choose either of the ways to choose. You can either go to the towers or the scary dungeons.
-- The journey is not over yet. After choosing a way, you face many obstacles and there are important decisions to be made.
+- After picking up a weapon, you get to choose between two ways that lead you to different locations in the castle. You can either go to the towers or the scary dungeons.
+- The journey is not over yet. After choosing a way, you must face and overcome many obstacles and there will be important decisions to be made.
 - Choose wisely and remember your ultimate goal **find your brother and get out the place as soon as possible.**
 - Best of luck navigating and may the odds be ever in your favour!
 
