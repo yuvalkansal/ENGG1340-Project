@@ -1,4 +1,4 @@
-# ENGG1340-Project
+# ENGG1340-Project: Group 115
 Create a readme.md file there in the repo, which should contain:
 1. A brief identification of the team members.
 2. A game description with basic game rules.
