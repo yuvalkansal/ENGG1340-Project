@@ -29,8 +29,7 @@ He’s already gone off to the castle, and now as you walk up to it, you look up
 5. Dynamic memory will be used to store and evaluate the player's responses. If the player's responses are correct, he will proceed to make the correct decisions which will give him a leverage in the game.
 
 ## Data Structure
-// describe the data structure to be used and what members will it consist of
-Our data structure will encompass oa structure or a class with the following date members:
+Our data structure will encompass a structure or a class with the following data members:
 ```
 string username;
 string password;
@@ -40,10 +39,9 @@ int weapon_choice;
 
 
 ## Advanced Features:
-//such as OOP and all.
 1. The game will make use of files to display the features of the game, such as the weapons, the castle, etc.
   - Files will also be used to store the information about the user such as his username and other details.
-  - Program code will be divided amongst various files. Different header files will be made and included as per the requirememnt of the program.
+  - Program code will be divided amongst various files. Different header files will be made and included as per the requirement of the program to ensure modularity of code.
 2. Furthermore, we will employ an extensive use of ASCII art to portray many features of the castle and will also design some of the ciphers ourselves to ensure an enthralling experience for the user.
 
 
