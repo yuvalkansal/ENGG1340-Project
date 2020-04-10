@@ -19,7 +19,7 @@ He’s already gone off to the castle, and now as you walk up to it, you look up
 - After picking up a weapon, you get to choose between two ways that lead you to different locations in the castle. You can either go to the towers or the scary dungeons.
 - After choosing a path, you must face and overcome many obstacles to locate your brother.
 - Choose wisely and remember your ultimate goal **find your brother and get out of the place, pronto!**
-- Best of luck navigating through this myriad of adventures, and may the odds be in your favour!
+- Best of luck navigating through this myriad of adventures, and may the odds be ever in your favour!
 
 ## Game Features:
 1. The game consists of many alternate endings which depend on the decisions you make throughout the game.
@@ -30,10 +30,21 @@ He’s already gone off to the castle, and now as you walk up to it, you look up
 
 ## Data Structure
 // describe the data structure to be used and what members will it consist of
+Our data structure will encompass oa structure or a class with the following date members:
+```
+string username;
+string password;
+int weapon_choice;
+```
+**Kindly note that this list is not exhaustive and we will add more members (as required) to it in the development stage**
 
 
 ## Advanced Features:
 //such as OOP and all.
+1. The game will make use of files to display the features of the game, such as the weapons, the castle, etc.
+  - Files will also be used to store the information about the user such as his username and other details.
+  - Program code will be divided amongst various files. Different header files will be made and included as per the requirememnt of the program.
+2. Furthermore, we will employ an extensive use of ASCII art to portray many features of the castle and will also design some of the ciphers ourselves to ensure an enthralling experience for the user.
 
 
 Create a readme.md file there in the repo, which should contain:
