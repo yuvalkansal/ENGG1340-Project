@@ -1,0 +1,35 @@
+********************************************************************************
+Level 6:
+	You are scared to death. Slowly you lift up the spear with trembling
+hands, and look up back at the hound. You wonder if you made the right choice in
+your weapon. The hound snarls viciously, and slowly moves towards you. And then
+the hound makes a dash for it. You are ready.
+
+     		    , 
+                ,.  | \ 
+               |: \ ; :\ 
+               :' ;\| ::\ 
+                \ : | `::\ 
+                _)  |   `:`. 
+              ,' , `.    ;: ; 
+            ,' ;:  ;"'  ,:: |_ 
+           /,   ` .    ;::: |:`-.__ 
+        _,' _O\  ,::.`:' ;  ;   . ' 
+    _,-'           `:.          ;""\, 
+ ,-'                     ,:         `-;, 
+ \,                       ;:           ;--._ 
+  `.______,-,----._     ,' ;:        ,/ ,  ,` 
+    V   / /,-';'  \     ; `:      ,'/,::.::: 
+       ,',;-'-'_,--;    ;   :.   ,',',;:::::: 
+      ( /___,-'     `.     ;::,,'o/  ,::::::: 
+       `'             )    ;:,'o /  ;"-   -:: 
+                      \__ _,'o ,'         ,:: 
+                         ) `--'       ,..:::: 
+                          ; `.        ,::::::: 
+                          ;  ``::.    :::::::
+
+[1]: Fight the hound.
+[H]: Help and Instructions.
+[X]: Exit.
+
+********************************************************************************

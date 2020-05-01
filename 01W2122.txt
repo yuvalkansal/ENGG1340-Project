@@ -1,0 +1,15 @@
+********************************************************************************
+Level 6:
+	Door 2 obviously, cause the lion should be dead by now, you reason. You 
+enter the door. There seem to be stairs leading downstairs. You have no choice 
+but to go down, as the door behind you is locked. The stairs keep leading down 
+and you enter a narrow dark passageway, which is dimly lit by fire torches. 
+Weird. Who lit them? Sean didn’t have a lighter. Inside, you’re just freaking 
+out. The pathway ends to reveal a dark abyss. You stare into it, and slowly you
+make out the colosseum-like stadium under the ground. That’s when you see it.
+
+[1]: Look into the abyss
+[H]: Help and Instructions.
+[X]: Exit.
+
+********************************************************************************

@@ -1,0 +1,24 @@
+********************************************************************************
+Level 6:
+	Man, you chose spiders and scorpions? For real? And poisonous ones at 
+that. In short, your weapon was pretty useless. Goodbye, hope to see you make a 
+better choice next time.
+
+   _                   _
+ _( )                 ( )_
+(_, |      __ __      | ,_)
+   \'\    /  ^  \    /'/
+    '\'\,/\     /\,/'/'
+      '\| []   [] |/'
+        (_  /^\  _)
+          \  ~  /
+          /VVVVV\
+        /'/{^^^}\'\
+    _,/'/'  ^^^  '\'\,_
+   (_, |           | ,_)
+     (_)           (_)
+
+[R]:Restart Game.
+[X]: Exit Game.
+
+********************************************************************************

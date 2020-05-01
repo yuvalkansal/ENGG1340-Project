@@ -1,0 +1,40 @@
+********************************************************************************
+Level 5:
+	Searching from the top could lead you to find your brother faster, you 
+think, as you rush up the stairs. That's when you hear a snarl. You freeze. 
+There is something up there. Then, a minute later, you see it.
+	An enormous hound is looking back at you dead in the eye.
+   					   /\ /\
+                                          /  \---._
+                                         / / `     `\
+                                         \ \   `'<@)@)      
+                                         /`         ~ ~._ 
+                                        /                `() 
+                                       /    \   (` ,_.:.  /
+                                      / ~    `\   (vVvvvvV
+                                     /       |`\_ `^^^/
+                                   /         |   `---'
+                                  /~	     |
+                                _/~          | 
+                              _/~             \  
+                            _/~               |
+                          _/~                 |
+                        _/~                   |
+                      _/~         ~.          |
+                    _/~             \        /\
+                 __/~               /`\     `||
+               _/~      ~~-._     /~   \     ||
+              /~             ~./~'      \    |)
+             /                 ~.        \   )|
+            /                    :       |   ||
+           |                    :       |   ||
+           |                   .'       |   ||
+       __.-`                __.'--.     |   |`---. 
+    .-~  ___.         __.--~`--.))))    |   `---.)))
+   `---~~     `-...--.________)))))     \_____)))))
+
+[1]: Get ready with the weapon.
+[H]: Help and Instructions.
+[X]: Save and exit.
+
+********************************************************************************

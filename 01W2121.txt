@@ -1,0 +1,24 @@
+********************************************************************************
+Level 6:
+	Well I mean, you did choose door 1, what were you thinking? They did not
+mean plastic arrows. Hope to see you make a better choice next time.
+   _                   _
+ _( )                 ( )_
+(_, |      __ __      | ,_)
+   \'\    /  ^  \    /'/
+    '\'\,/\     /\,/'/'
+      '\| []   [] |/'
+        (_  /^\  _)
+          \  ~  /
+          /VVVVV\
+        /'/{^^^}\'\
+    _,/'/'  ^^^  '\'\,_
+   (_, |           | ,_)
+     (_)           (_)
+
+
+
+[R]:Restart Game.
+[X]: Exit Game.
+
+********************************************************************************

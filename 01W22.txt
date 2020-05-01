@@ -1,0 +1,21 @@
+********************************************************************************
+Level 4:
+	You believe your brother might be in the dungeons. After hearing that 
+scream, you realise he could actually be trapped behind a door or something. You 
+rush down into the dark dingy depths of the dungeon.You find this old flame 
+torch and light it up with your lighter. Coupled with the faint light from a 
+torch and the smell of bats, this place could definitely do with a retouch. In 
+front of you are two ways again. There’s an inscription on the wall:
+
+	------------------------------------------------------
+	|						     |
+	|			YPNOA WHAO		     |
+	|						     |
+	------------------------------------------------------
+
+[1]: Head Left.
+[2]: Head Right.
+[H]: Help and Instructions.
+[X]: Save and exit.
+
+********************************************************************************

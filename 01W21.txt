@@ -1,0 +1,36 @@
+********************************************************************************
+Level 4:
+	You decide to head to the tower. As you rush, you look warily around you 
+for clues that might tell you where your brother is, and if he’s safe or not. At 
+the base of the staircase, you stop. There are rooms in every storey of the 
+tower, and you’d rather not go up the creepy tower and start searching from the 
+bottom. Then you remember how fond your brother is of heights, and you sigh. 
+Exasperated, you finally make a choice.
+
+        			      	   |>>>
+                          |>>>         ,.=,,==. ,,_
+                      _ ,====, _    |I|`` ||  `|I `|
+                     |`I|    || `==,|``   ^^   ``  |
+                     | ``    ^^    ||_,===TT`==,,_ |
+                     |,==Y``Y==,,__| \L=_-`'   +J/`
+                      \|=_  ' -=#J/..-|=_-     =|
+                       |=_   -;-='`. .|=_-     =|----T--,
+                       |=/\  -|=_-. . |=_-/^\  =||-|-|::|____
+                       |=||  -|=_-. . |=_-| |  =|-|-||::\____
+                       |=LJ  -|=_-. . |=_-|_| =||-|-|:::::::
+                       |=_   -|=_-_.  |=_-     =|-|-||:::::::
+                       |=_   -|=//^\. |=_-     =||-|-|:::::::
+                   ,   |/&_,_-|=||  | |=_-     =|-|-||:::::::
+                ,--``8%,/    ',%||  | |=_-     =||-|-|%::::::
+            ,---`_,888`  ,.'''''`-.,|,|/!,--,.&\|&\-,|&#:::::
+           |;:;K`__,...;=\_____,=``           %%%&     %#,---
+           |;::::::::::::|       `'.________+-------\   ``
+          /:::;:::;;:::::|                  |        `-------
+
+  
+[1]: Start searching from the top.
+[2]: Start searching from the bottom.
+[H]: Help and Instructions.
+[X]: Save and exit.
+
+********************************************************************************

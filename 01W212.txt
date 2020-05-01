@@ -1,0 +1,32 @@
+********************************************************************************
+Level 5:
+	You decide to start searching from the bottom, and try the rooms on each 
+floor. At the third floor, you hear a strange scraping noise. You arm yourself, 
+and walk into the room. To your surprise, you find three doors, with an 
+inscription on each. The first door says, “Behind this door is a booby trap that 
+fires arrows at you.” The second door reads, “Behind this door is a lion who 
+hasn’t eaten in three months.” The third one goes, “Behind this door lies the 
+deadliest of spiders and scorpions.” You turn around to find the exit locked. 
+You realise that not all of the tales of the castle were a myth. You’re scared, 
+but you remind yourself that your brother might be in trouble, and you must find 
+him. Time to choose a door.
+	  
+ __________	 __________	 __________
+|  __  __  |	|  __  __  |	|  __  __  |
+| |  ||  | |	| |  ||  | |	| |  ||  | |
+| |  ||  | |	| |  ||  | |	| |  ||  | |
+| |__||__| |	| |__||__| |	| |__||__| |
+|  __  __()|	|  __  __()|	|  __  __()|
+| |  ||  | |	| |  ||  | |	| |  ||  | |
+| |  ||  | |	| |  ||  | | 	| |  ||  | |		
+| |__||__| |	| |__||__| |	| |__||__| | 
+|__________|	|__________|	|__________|
+
+
+[1]: Choose Door 1.
+[2]: Choose Door 2.
+[3]: Choose Door 3.
+[H]: Help and Instructions.
+[X]: Save and exit.
+
+********************************************************************************

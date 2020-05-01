@@ -1,0 +1,28 @@
+********************************************************************************
+Level 5:
+	You decide to trust the sign and go right. As you go ahead, you reach a 
+small stone room. It was probably where a guard rested back in the day. There 
+was a wooden bed frame, a small desk, with a lamp and a stand. There’s a small 
+box too. You open the box, and there is a die along with a piece of paper. You 
+read it.
+         _____________________________________________________
+	|                                                     |
+	|	Thou might’st search this castle whole,	      |
+        |   	but not find thy brother’s soul,       	      |
+        |	But roll the die of the devil,		      |
+        |	take a chance with the evil,		      |
+        |	if you roll is more than three,		      |
+        |	your brother shall be free.		      |	
+        |	But we warned, for if you lost,		      |
+        |	There would be your soul as a cost.           |
+        |_____________________________________________________|
+
+You are as dumbfounded as anything, and you know that all those tales weren’t 
+just tales. But you must make a choice.
+
+[1]: Roll the die.
+[2]: Leave the box and walk on ahead.
+[H]: Help and Instructions.
+[X]: Save and exit.
+
+********************************************************************************

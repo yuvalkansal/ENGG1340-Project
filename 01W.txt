@@ -1,0 +1,14 @@
+********************************************************************************
+Level 2:
+	As you pick up the heavy weapon, you hope your brother is safe. There 
+could be wild animals, after all. You start making your way towards the other 
+end of the courtyard when you hear a nasty scream. Oh no. He might be in 
+trouble. 
+
+
+[1]: Run towards the castle.
+[2]: Run back.
+[H]: Help and Instructions.
+[X]: Save and exit.
+
+********************************************************************************

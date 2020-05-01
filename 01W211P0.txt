@@ -1,0 +1,30 @@
+********************************************************************************
+Level 7:
+	The hound strikes. You try blocking it off with the spear, but no use; 
+the spear was made of old wood, and it broke into two. The hound slashes across 
+your arm, and it rips it open. You scream in agony and try to defend yourself, 
+and in the next attack you manage to stab the beast near its heart. However it 
+gets you too, and your body has slash marks across it, and you’re losing a lot 
+of blood. Time seems to come to a standstill. You close your eyes, and go into 
+a deep sleep.
+
+   _                   _
+ _( )                 ( )_
+(_, |      __ __      | ,_)
+   \'\    /  ^  \    /'/
+    '\'\,/\     /\,/'/'
+      '\| []   [] |/'
+        (_  /^\  _)
+          \  ~  /
+          /VVVVV\
+        /'/{^^^}\'\
+    _,/'/'  ^^^  '\'\,_
+   (_, |           | ,_)
+     (_)           (_)
+            
+
+
+[R]:Restart Game.
+[X]: Exit Game.
+
+********************************************************************************

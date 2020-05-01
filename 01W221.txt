@@ -1,0 +1,27 @@
+********************************************************************************
+Level 5:
+	You decide to ignore the sign and go left, and when you finally reach 
+the end of the path, it’s a dead end. While walking back you trip over a rope 
+and fall. As you pick yourself up, you realise there was no rope initially. You 
+turn around to find the huge snake staring back at you. Before you can do 
+anything, it strikes. You fall, and the light goes out. You can’t see anything, 
+and you’ve been bitten. Should have seen the signs.
+
+   _                   _
+ _( )                 ( )_
+(_, |      __ __      | ,_)
+   \'\    /  ^  \    /'/
+    '\'\,/\     /\,/'/'
+      '\| []   [] |/'
+        (_  /^\  _)
+          \  ~  /
+          /VVVVV\
+        /'/{^^^}\'\
+    _,/'/'  ^^^  '\'\,_
+   (_, |           | ,_)
+     (_)           (_)
+
+[R]:Restart Game.
+[X]: Exit Game.
+
+********************************************************************************

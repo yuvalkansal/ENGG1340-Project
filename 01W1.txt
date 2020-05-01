@@ -1,0 +1,33 @@
+********************************************************************************
+Level 3:
+	You are scared to death, and realize going ahead might not be a great 
+idea. You put the weapon back, and start running. To your horror, the gate 
+begins to close, making a melancholic sound. You are trapped. As you start 
+bawling for help and look up with tears in your eyes, you spot Sean grinning 
+from one of the towers. That’s when it hits you. You were pranked. Big time. 
+Sean signals his friends to gather around. Oh boy. This is one incident you’ll 
+never live down.
+
+  	 		  \\\\\\,
+    	   		 _/''  \\\
+     		         \      D
+              Oh.Shit.___ \_   /
+       			  <\  />,_
+     		         / \Y/ /` \
+       			 || #  |  |
+      			 || #  |  |
+      			 || #  |  |
+      			 ||=[]=|  |
+      			 ||    |__|
+     		        //| |  /||\
+     			  | |   |
+      			  | |   |
+       			  ( (   |
+       			  | |   |
+       			  [_[___]
+       			 (_(____|
+
+[R]: Restart game.
+[X]: Save and exit.
+
+********************************************************************************

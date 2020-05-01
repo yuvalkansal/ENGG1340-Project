@@ -1,0 +1,14 @@
+********************************************************************************
+Level 3:
+	You run up to the end of the courtyard, and see that there are two paths 
+ahead. One looks like it leads to the main castle towers, while the other 
+appears to go to the dungeon or cellars. The screams stop. You have to think 
+quickly. It is impossible to detect where the screams came from. Where do you 
+think your brother is? Choose your path.
+  
+[1]: Head to the tower.
+[2]: Head to the dungeons.
+[H]: Help and Instructions.
+[X]: Save and exit.
+
+********************************************************************************

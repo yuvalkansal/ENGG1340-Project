@@ -1,0 +1,39 @@
+********************************************************************************     
+The Beginning:
+				  |>>>
+                                  |
+                    |>>>      _  _|_  _         |>>>
+                    |        |;| |;| |;|        |
+                _  _|_  _    \\.    .  /    _  _|_  _
+               |;|_|;|_|;|    \\:. ,  /    |;|_|;|_|;|
+               \\..      /    ||;   . |    \\.    .  /
+                \\.  ,  /     ||:  .  |     \\:  .  /
+                 ||:   |_   _ ||_ . _ | _   _||:   |         \,/
+                 ||:  .|||_|;|_|;|_|;|_|;|_|;||:.  |
+                 ||:   ||.    .     .      . ||:  .|
+                 ||: . || .     . .   .  ,   ||:   |       \,/
+                 ||:   ||:  ,  _______   .   ||: , |            /`\
+                 ||:   || .   /+++++++\    . ||:   |
+                 ||:   ||.    |+++++++| .    ||: . |
+              __ ||: . ||: ,  |+++++++|.  . _||_   |
+     ____--`~    '--~~__|.    |+++++__|----~    ~`---,              ___
+-~--~                   ~---__|,--~'                  ~~----_____-~'   
+
+	It all started with your younger brother Sean and you decided to spend 
+the summer break with your aunt in her quaint village. You had heard stories 
+about the dilapidated castle situated at the far end of the village, and the 
+legend of the monster that had been imprisoned there. That evening, as you 
+stared at the castle from the window of your room, those thoughts re-emerged: 
+Was it all true? Could there really be something there? Seeing your tense and 
+nervous face, your brother cracked up and challenged you to a game of 
+hide-and-seek at the castle. Embarrassed and determined to not come across as 
+a wimp, you accepted it.
+
+He’s already gone off to the castle, and now as you walk up to the castle, you
+look up at the menacing towers and realise there’s no backing out. Ah shit, here
+we go again…
+
+[1]: Start Game.
+[H]: Help and Instructions.
+
+********************************************************************************

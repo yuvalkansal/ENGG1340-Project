@@ -1,0 +1,37 @@
+********************************************************************************
+Level 6:
+	You steady your gaze on the hound, and lift up the old sword. On seeing 
+the sword the hound begins to whine, and you notice this strange fear in its 
+eyes. It yaps helplessly and then runs up the tower. You can’t figure out for 
+the life of you what just happened, and as you try to put it together, you hear 
+your brother’s voice downstairs. You run down and find him out in the courtyard. 
+He tells you how he was going up the tower when he saw a hound and ran down and 
+screamed for help. You give him a wry smile, and tell him how you scared off the 
+hound. As you both safely make your way back, you can’t help   but think what 
+would’ve happened if you had chosen the spear instead.
+
+				  |>>>
+                                  |
+                    |>>>      _  _|_  _         |>>>
+                    |        |;| |;| |;|        |
+                _  _|_  _    \\.    .  /    _  _|_  _
+               |;|_|;|_|;|    \\:. ,  /    |;|_|;|_|;|
+               \\..      /    ||;   . |    \\.    .  /
+                \\.  ,  /     ||:  .  |     \\:  .  /
+                 ||:   |_   _ ||_ . _ | _   _||:   |         \,/
+                 ||:  .|||_|;|_|;|_|;|_|;|_|;||:.  |
+                 ||:   ||.    .     .      . ||:  .|
+                 ||: . || .     . .   .  ,   ||:   |       \,/
+                 ||:   ||:  ,  _______   .   ||: , |            /`\
+                 ||:   || .   /+++++++\    . ||:   |
+                 ||:   ||.    |+++++++| .    ||: . |
+              __ ||: . ||: ,  |+++++++|.  . _||_   |
+     ____--`~    '--~~__|.    |+++++__|----~    ~`---,              ___
+-~--~                   ~---__|,--~'                  ~~----_____-~'   
+
+
+
+[R]:Restart Game.
+[X]: Exit Game.
+
+********************************************************************************

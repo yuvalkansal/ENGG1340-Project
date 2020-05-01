@@ -1,0 +1,28 @@
+********************************************************************************               
+Level 1:
+
+	As you enter the main courtyard, you see the well in the middle of the 
+courtyard. Beside is a large boulder on top of which lies... A skull. You 
+shudder and go closer to the well. On the right of the skull is an old rusty 
+sword, with caked blood on it. On the left, a spear, with a worn-out head. 
+Clearly, both have seen better days. You are pretty intimidated by the skull, 
+and realise it’s safer to carry a weapon inside the castle. Here’s the catch: 
+they are both quite heavy and you could only carry one of them. As you stand 
+there, thinking, you see something engraved roughly on the rock.
+
+	-----------------------------------------------------------------
+	|			     [===========|>			|
+        |			  THE WORDS YOU WIELD 		 	|
+	|			     SHALL LEAD YOU 			|
+	|			     TO VICTORY				|
+	|			     ▬▬ι═══════ﺤ			|
+	-----------------------------------------------------------------
+
+Time to choose your weapon:
+
+[1]: Choose Sword.
+[2]: Choose Spear.
+[H]: Help and Instructions.
+[X]: Save and exit.
+
+********************************************************************************

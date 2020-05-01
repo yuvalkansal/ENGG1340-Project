@@ -1,0 +1,40 @@
+********************************************************************************
+Level 7:
+	You dodge the attack by swerving, and the hound tumbles down the stairs, 
+but not before slashing your arm. You hear it yelp as it falls, and then there’s 
+a deathly silence. The hound is not coming back. You drop the spear and run up 
+to the top room. You find your brother locked up inside, crying. You take him 
+downstairs slowly, and pick up the spear just in case the hound returns. But the 
+beast is nowhere to be seen. As you both make your way back, he thanks you for 
+saving his life. Ah, finally something good out of this.
+
+   		    ///////
+                   |.   .|
+                  (   _\ |
+                   |  =  |
+                   |\___/
+               ___/|   \__          
+             /` | '----' |`\      \\\\\\,
+            /   |        |  \    _/''  \\\
+           /~%  |        ;   \   \      D
+          /   /\/        |`\  \   \_   /
+          \  \ |         | /  /   <\  />,_
+           `\ \|         |/ /`   / \Y/ /` \
+             `\;         |/`     || #  |  |
+              (|         |)      || #  |  |
+               |_________|       || #  |  |
+                |    |  |        ||=[]=|  |
+                |    |  |        ||    |__|
+                |____|__|       //| |  /||\
+                \    |  |         | |   |
+                 |   )  )         | |   |
+                 /   |  |         ( (   |
+                 |___|__|         | |   |
+                 \===|==|         | |   |
+                 /   `-.`-.       [_[___]
+                 \______)__)     (_(____|
+
+[R]:Restart Game.
+[X]: Exit Game.
+
+********************************************************************************
