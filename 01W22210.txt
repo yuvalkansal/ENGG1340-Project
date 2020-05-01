@@ -1,0 +1,24 @@
+********************************************************************************
+Level 7:
+	The die rolls to reveal that you lost. You feel weak and try sitting 
+down on the wooden bed frame. You start to breathe irregularly. Just an anxiety 
+attack right? Moments later you are unaware of anything going on around you. 
+You’re gone. Deal with the devil? Yep, you were stupid. 
+   _                   _
+ _( )                 ( )_
+(_, |      __ __      | ,_)
+   \'\    /  ^  \    /'/
+    '\'\,/\     /\,/'/'
+      '\| []   [] |/'
+        (_  /^\  _)
+          \  ~  /
+          /VVVVV\
+        /'/{^^^}\'\
+    _,/'/'  ^^^  '\'\,_
+   (_, |           | ,_)
+     (_)           (_)
+
+[R]: Restart Game.
+[X]: Exit Game.
+
+********************************************************************************

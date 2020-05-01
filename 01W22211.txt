@@ -1,0 +1,32 @@
+********************************************************************************
+Level 7:
+	The die rolls to reveal that you won. You feel weak and try sitting down 
+on the wooden bed frame. You start to breathe irregularly. Just an anxiety 
+attack right? Moments later you are unaware of anything going on around you. 
+You’re gone. The next thing you know is that your brother and you are standing 
+in the courtyard. You both are in a trance. Slowly you both look at each other, 
+and you can see the horror in his eyes. Running back, you both don’t stop until 
+you’re safely back home. That night, as you look out through your window, you 
+see the silhouette of the castle, and you know, it was all real. You’re never 
+going back there. Never.
+ 						|>>>
+                                                |
+                                            _  _|_  _
+                                           |;|_|;|_|;|
+                                           \\.    .  /
+                                            \\:  .  /
+                                             ||:   |
+                                             ||:.  |
+                                             ||:  .|
+                                             ||:   |       \,/
+                                             ||: , |            /`\
+                                             ||:   |
+                                             ||: . |
+              __                            _||_   |
+     ____--`~    '--~~__            __ ----~    ~`---,              ___
+-~--~                   ~---__ ,--~'                  ~~----_____-~'   `~----~~
+
+[R]:Restart Game.
+[X]: Exit Game.
+
+********************************************************************************

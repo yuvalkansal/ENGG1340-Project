@@ -1,0 +1,21 @@
+********************************************************************************
+Level 9:
+	At the end of the second passage you find a small locked room. You knock
+on the door, and you hear your brother’s voice. He’s crying now, and between 
+sobs he tells you how he decided to explore the castle but ended up locked in 
+one of the rooms instead. He had heard strange noises while he was there, and he 
+was also surrounded by spiders too. You try breaking the door down, but it 
+doesn’t work. That’s when you see the inscription on the door.
+
+         _______________________________________________________________
+	|								|			|                                                               |
+	|       <<insert riddle on door>>			        |
+	|       Say the name of the device, and end your strife.	|
+        |_______________________________________________________________|
+
+
+-> Type the answer.
+[H]: Help and Instructions.
+[X]: Exit.
+
+********************************************************************************

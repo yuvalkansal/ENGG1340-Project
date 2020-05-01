@@ -1,0 +1,25 @@
+********************************************************************************
+Level 11:
+	Wrong answer! The screams inside get louder, but you forget them as you 
+suddenly start feeling asphyxiated. You drop your spear, and fall on your knees.
+Slowly, you start losing consciousness. How could you get such a simple answer 
+wrong? That’s the last thought you ever have, before plunging into eternal 
+darkness.
+   _                   _
+ _( )                 ( )_
+(_, |      __ __      | ,_)
+   \'\    /  ^  \    /'/
+    '\'\,/\     /\,/'/'
+      '\| []   [] |/'
+        (_  /^\  _)
+          \  ~  /
+          /VVVVV\
+        /'/{^^^}\'\
+    _,/'/'  ^^^  '\'\,_
+   (_, |           | ,_)
+     (_)           (_)
+
+[R]:Restart Game.
+[X]: Exit Game.
+
+********************************************************************************

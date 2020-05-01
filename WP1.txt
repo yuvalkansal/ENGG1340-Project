@@ -1,0 +1,13 @@
+********************************************************************************
+Level 9:
+You lash out with your spear, and it hits the dragon straight in the heart. It 
+comes crashing down and disappears into the abyss. You thank God and cross the 
+bridge. It leads to a new path.
+
+		[==========================o|>
+
+[1]: Keep going ahead.
+[H]: Help and Instructions.
+[X]: Save and exit.
+
+********************************************************************************
