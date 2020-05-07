@@ -6,8 +6,8 @@ end of the courtyard when you hear a nasty scream. Oh no. He might be in
 trouble. 
 
 
-[1]: Run towards the castle.
-[2]: Run back.
+[1]: Run back.
+[2]: Run towards the castle.
 [H]: Help and Instructions.
 [X]: Save and exit.
 
