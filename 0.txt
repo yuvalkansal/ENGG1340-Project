@@ -35,5 +35,6 @@ we go again…
 
 [1]: Start Game.
 [H]: Help and Instructions.
+[X]: Save and exit.
 
 ********************************************************************************
