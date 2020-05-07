@@ -1,9 +1,16 @@
-******************************************************************************************
+********************************************************************************
 Level 6:
-	Making a deal with the devil doesn’t seem like a great idea. Time to move on, you think, and resume your journey. As you move ahead, you hear a strange deep rumbling. The walls of the small passageway begin to tremble, and the rumbling intensifies. It seems like there is something on the other end of the passage. And as you prepare yourself for the worst, you hope whatever it is isn’t dangerous. You reach the end of the passage onto a bridge of sorts, and hold your torch up to look into the dark abyss below. It is a stadium of sorts. Looks like a colosseum, you think. And that’s when you see it.
+	Making a deal with the devil doesn’t seem like a great idea. Time to 
+move on, you think, and resume your journey. As you move ahead, you hear a 
+strange deep rumbling. The walls of the small passageway begin to tremble, and 
+the rumbling intensifies. It seems like there is something on the other end of 
+the passage. And as you prepare yourself for the worst, you hope whatever it is 
+isn’t dangerous. You reach the end of the passage onto a bridge of sorts, and 
+hold your torch up to look into the dark abyss below. It is a stadium of sorts. 
+Looks like a colosseum, you think. And that’s when you see it.
 
 [1]: Look into the abyss.
 [H]: Help and Instructions.
 [X]: Exit.
 
-******************************************************************************************
+********************************************************************************
