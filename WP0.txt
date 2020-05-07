@@ -1,11 +1,11 @@
 ********************************************************************************
 Level 9:
 	You thrust the spear at the dragon, but it misses. However, the dragon 
-does not. It reaches out with its huge claws, and strikes you on your arm. Your 
+does not. It reaches out with its huge claws, and strikes you on your arm. Your
 left arm is badly hurt. You desperately thrust the spear at the dragon again, 
 but it takes the spear in its mouth and snaps the wooden pole of the spear  in 
-two. It lashes out with its claws again, and makes a deep cut in your torso. You 
-lay there, fatally injured, losing consciousness, and as you lay there, you wish 
+two. It lashes out with its claws again, and makes a deep cut in your torso. You
+lay there, fatally injured, losing consciousness, and as you lay there, you wish
 you had made better choices.
    _                   _
  _( )                 ( )_
