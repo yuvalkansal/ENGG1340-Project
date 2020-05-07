@@ -1,0 +1,9 @@
+********************************************************************************
+                                      HELP
+Read the instructions and use your powers of deduction to make the decisions, as
+you move ahead! Click on the required keys to move ahead. Press X to save and 
+Exit the Game.
+
+[B]: Go Back
+
+********************************************************************************
