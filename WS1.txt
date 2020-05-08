@@ -8,13 +8,14 @@ was also surrounded by spiders too. You try breaking the door down, but it
 doesn’t work. That’s when you see the inscription on the door.
 
          _______________________________________________________________
-	|								|			|                                                               |
-	|       <<insert riddle on door>>			        |
-	|       Say the name of the device, and end your strife.	|
+	|	Four letters am I made up of,				|
+	|       Two in moon, two in roll, to in drive,                  |
+	|       When fate closes one of me it opens another one,        |
+	|       Say my name aloud, and end your strife.	                |
         |_______________________________________________________________|
 
 
--> Type the answer.
+-> Type the answer.[HINT: Use all caps to say it out aloud]
 [H]: Help and Instructions.
 [X]: Exit.
 
