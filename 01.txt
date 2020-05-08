@@ -12,13 +12,13 @@ there, thinking, you see something engraved roughly on the rock.
 
 	-----------------------------------------------------------------
 	|			     [===========|>			|
-        |			  THE WORDS YOU WIELD 		 	|
+        |			  THE "WORDS" YOU WIELD 	 	|
 	|			     SHALL LEAD YOU 			|
 	|			     TO VICTORY				|
 	|			     ▬▬ι═══════ﺤ			|
 	-----------------------------------------------------------------
 
-Time to choose your weapon:
+Time to choose your weapon:[Hint: Anagrams]
 
 [1]: Choose Sword.
 [2]: Choose Spear.
