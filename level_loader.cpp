@@ -154,7 +154,6 @@ void Load(vector<string> temp, string username)
             {
                 srand((unsigned)time(NULL));
                 double r = rand() % 2;
-                cout << r;
                 if (r == 0)
                     input = "0";
                 else
