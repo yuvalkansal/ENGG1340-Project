@@ -1,0 +1,286 @@
+********************************************************************************
+					THE CASTLE
+
+	      	  			   |>>>
+                          |>>>         ,.=,,==. ,,_
+                      _ ,====, _    |I|`` ||  `|I `|
+                     |`I|    || `==,|``   ^^   ``  |
+                     | ``    ^^    ||_,===TT`==,,_ |
+                     |,==Y``Y==,,__| \L=_-`'   +J/`
+                      \|=_  ' -=#J/..-|=_-     =|
+                       |=_   -;-='`. .|=_-     =|----T--,
+                       |=/\  -|=_-. . |=_-/^\  =||-|-|::|____
+                       |=||  -|=_-. . |=_-| |  =|-|-||::\____
+                       |=LJ  -|=_-. . |=_-|_| =||-|-|:::::::
+                       |=_   -|=_-_.  |=_-     =|-|-||:::::::
+                       |=_   -|=//^\. |=_-     =||-|-|:::::::
+                   ,   |/&_,_-|=||  | |=_-     =|-|-||:::::::
+                ,--``8%,/    ',%||  | |=_-     =||-|-|%::::::
+            ,---`_,888`  ,.'''''`-.,|,|/!,--,.&\|&\-,|&#:::::
+           |;:;K`__,...;=\_____,=``           %%%&     %#,---
+           |;::::::::::::|       `'.________+-------\   ``
+          /:::;:::;;:::::|                  |        `-------
+
+
+********************************************************************************
+Welcome to our game THE CASTLE. You will have an enthralling experience
+henceforth!!! May the odds be ever in your favour.
+Are you an existing user or are you a new person looking for a great experience?
+Press 1 if you are an existing user and 2 if you are new: 2
+
+Welcome to create a new account with us. Choose a fierce username for yourself
+Please enter your username: XYZ
+********************************************************************************     
+The Beginning:
+				  |>>>
+                                  |
+                    |>>>      _  _|_  _         |>>>
+                    |        |;| |;| |;|        |
+                _  _|_  _    \\.    .  /    _  _|_  _
+               |;|_|;|_|;|    \\:. ,  /    |;|_|;|_|;|
+               \\..      /    ||;   . |    \\.    .  /
+                \\.  ,  /     ||:  .  |     \\:  .  /
+                 ||:   |_   _ ||_ . _ | _   _||:   |         \,/
+                 ||:  .|||_|;|_|;|_|;|_|;|_|;||:.  |
+                 ||:   ||.    .     .      . ||:  .|
+                 ||: . || .     . .   .  ,   ||:   |       \,/
+                 ||:   ||:  ,  _______   .   ||: , |            /`\
+                 ||:   || .   /+++++++\    . ||:   |
+                 ||:   ||.    |+++++++| .    ||: . |
+              __ ||: . ||: ,  |+++++++|.  . _||_   |
+     ____--`~    '--~~__|.    |+++++__|----~    ~`---,              ___
+-~--~                   ~---__|,--~'                  ~~----_____-~'   
+
+	It all started with your younger brother Sean and you decided to spend 
+the summer break with your aunt in her quaint village. You had heard stories 
+about the dilapidated castle situated at the far end of the village, and the 
+legend of the monster that had been imprisoned there. That evening, as you 
+stared at the castle from the window of your room, those thoughts re-emerged: 
+Was it all true? Could there really be something there? Seeing your tense and 
+nervous face, your brother cracked up and challenged you to a game of 
+hide-and-seek at the castle. Embarrassed and determined to not come across as 
+a wimp, you accepted it.
+
+He's already gone off to the castle, and now as you walk up to the castle, you
+look up at the menacing towers and realise there's no backing out. Ah shit, here
+we go again...
+
+[1]: Start Game.
+[H]: Help and Instructions.
+[X]: Save and exit.
+
+********************************************************************************
+1
+
+********************************************************************************               
+Level 1:
+
+	As you enter the main courtyard, you see the well in the middle of the 
+courtyard. Beside is a large boulder on top of which lies... A skull. You 
+shudder and go closer to the well. On the right of the skull is an old rusty 
+sword, with caked blood on it. On the left, a spear, with a worn-out head. 
+Clearly, both have seen better days. You are pretty intimidated by the skull, 
+and realise it's safer to carry a weapon inside the castle. Here's the catch: 
+they are both quite heavy and you could only carry one of them. As you stand 
+there, thinking, you see something engraved roughly on the rock.
+
+	-----------------------------------------------------------------
+	|			     [===========|>			|
+        |			  THE "WORDS" YOU WIELD 	 	|
+	|			     SHALL LEAD YOU 			|
+	|			     TO VICTORY				|
+	|			     ▬▬ι═══════ﺤ			|
+	-----------------------------------------------------------------
+
+Time to choose your weapon:[Hint: Anagrams]
+
+[1]: Choose Sword.
+[2]: Choose Spear.
+[H]: Help and Instructions.
+[X]: Save and exit.
+
+********************************************************************************
+H
+
+********************************************************************************
+                                      HELP
+Read the instructions and use your powers of deduction to make the decisions, as
+you move ahead! Click on the required keys to move ahead. Press X to save and 
+Exit the Game.
+
+[B]: Go Back
+
+********************************************************************************
+B
+
+********************************************************************************               
+Level 1:
+
+	As you enter the main courtyard, you see the well in the middle of the 
+courtyard. Beside is a large boulder on top of which lies... A skull. You 
+shudder and go closer to the well. On the right of the skull is an old rusty 
+sword, with caked blood on it. On the left, a spear, with a worn-out head. 
+Clearly, both have seen better days. You are pretty intimidated by the skull, 
+and realise it's safer to carry a weapon inside the castle. Here's the catch: 
+they are both quite heavy and you could only carry one of them. As you stand 
+there, thinking, you see something engraved roughly on the rock.
+
+	-----------------------------------------------------------------
+	|			     [===========|>			|
+        |			  THE "WORDS" YOU WIELD 	 	|
+	|			     SHALL LEAD YOU 			|
+	|			     TO VICTORY				|
+	|			     ▬▬ι═══════ﺤ			|
+	-----------------------------------------------------------------
+
+Time to choose your weapon:[Hint: Anagrams]
+
+[1]: Choose Sword.
+[2]: Choose Spear.
+[H]: Help and Instructions.
+[X]: Save and exit.
+
+********************************************************************************
+1
+
+********************************************************************************
+Level 2:
+	As you pick up the heavy weapon, you hope your brother is safe. There 
+could be wild animals, after all. You start making your way towards the other 
+end of the courtyard when you hear a nasty scream. Oh no. He might be in 
+trouble. 
+
+
+[1]: Run back.
+[2]: Run towards the castle.
+[H]: Help and Instructions.
+[X]: Save and exit.
+
+********************************************************************************
+2
+
+********************************************************************************
+Level 3:
+	You run up to the end of the courtyard, and see that there are two paths 
+ahead. One looks like it leads to the main castle towers, while the other 
+appears to go to the dungeon or cellars. The screams stop. You have to think 
+quickly. It is impossible to detect where the screams came from. Where do you 
+think your brother is? Choose your path.
+  
+[1]: Head to the tower.
+[2]: Head to the dungeons.
+[H]: Help and Instructions.
+[X]: Save and exit.
+
+********************************************************************************
+2
+
+********************************************************************************
+Level 4:
+	You believe your brother might be in the dungeons. After hearing that 
+scream, you realise he could actually be trapped behind a door or something. You
+rush down into the dark dingy depths of the dungeon.You find this old flame 
+torch and light it up with your lighter. Coupled with the faint light from a 
+torch and the smell of bats, this place could definitely do with a retouch. In 
+front of you are two ways again. There's an inscription on the wall:
+
+	------------------------------------------------------
+	|						     |
+	|			SJHIU QBUI		     |
+	|						     |
+	------------------------------------------------------
+	[HINT: Et tu, Brute?]
+
+[1]: Head Left.
+[2]: Head Right.
+[H]: Help and Instructions.
+[X]: Save and exit.
+
+********************************************************************************
+2
+
+********************************************************************************
+Level 5:
+	You decide to trust the sign and go right. As you go ahead, you reach a 
+small stone room. It was probably where a guard rested back in the day. There 
+was a wooden bed frame, a small desk, with a lamp and a stand. There's a small 
+box too. You open the box, and there is a die along with a piece of paper. You 
+read it.
+         _____________________________________________________
+	|                                                     |
+	|	Thou might'st search this castle whole,	      |
+        |   	but not find thy brother's soul,       	      |
+        |	But roll the die of the devil,		      |
+        |	take a chance with the evil,		      |
+        |	if you roll is more than three,		      |
+        |	your brother shall be free.		      |	
+        |	But we warned, for if you lost,		      |
+        |	There would be your soul as a cost.           |
+        |_____________________________________________________|
+
+You are as dumbfounded as anything, and you know that all those tales weren't 
+just tales. But you must make a choice.
+
+[1]: Roll the die.
+[2]: Leave the box and walk on ahead.
+[H]: Help and Instructions.
+[X]: Save and exit.
+
+********************************************************************************
+1
+
+********************************************************************************
+Level 6:
+	You feel like rolling the die. As you pick it up, you realize either 
+it's your brother pranking you or you are making a literal deal with the devil. 
+Though you feel really unsure, you decide to roll.
+
+                 _______            
+               /\       \           
+              /()\   ()  \          
+             /    \_______\         
+             \    /()     /         
+              \()/   ()  /          
+               \/_____()/
+
+
+[1]: Roll the die.
+[H]: Help and Instructions.
+[X]: Save and exit.
+
+********************************************************************************
+1
+
+********************************************************************************
+Level 7:
+	The die rolls to reveal that you won. You feel weak and try sitting down 
+on the wooden bed frame. You start to breathe irregularly. Just an anxiety 
+attack right? Moments later you are unaware of anything going on around you. 
+You’re gone. The next thing you know is that your brother and you are standing 
+in the courtyard. You both are in a trance. Slowly you both look at each other, 
+and you can see the horror in his eyes. Running back, you both don’t stop until 
+you’re safely back home. That night, as you look out through your window, you 
+see the silhouette of the castle, and you know, it was all real. You’re never 
+going back there. Never.
+ 						|>>>
+                                                |
+                                            _  _|_  _
+                                           |;|_|;|_|;|
+                                           \\.    .  /
+                                            \\:  .  /
+                                             ||:   |
+                                             ||:.  |
+                                             ||:  .|
+                                             ||:   |       \,/
+                                             ||: , |            /`\
+                                             ||:   |
+                                             ||: . |
+              __                            _||_   |
+     ____--`~    '--~~__            __ ----~    ~`---,              ___
+-~--~                   ~---__ ,--~'                  ~~----_____-~'   `~----~~
+
+[R]:Restart Game.
+[X]: Exit Game.
+
+********************************************************************************
+R
