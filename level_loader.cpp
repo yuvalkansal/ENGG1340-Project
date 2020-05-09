@@ -9,7 +9,7 @@ using namespace std;
 
 vector<string> LEVEL_CODE;
 char WEAPON = '0';
-
+// function to the get the weapon of the player is he/she is an existing user
 char getWeapon(string temp)
 {
     string file, temp2;
@@ -18,9 +18,10 @@ char getWeapon(string temp)
     get_weapon >> file;
     get_weapon >> file;
     get_weapon >> file;
+    get_weapon.close();
     return file[0];
 }
-
+// function to display the contents of a particular file
 void Display(string st)
 {
     string file;
@@ -34,6 +35,9 @@ void Display(string st)
     fin.close();
 }
 
+/*function to load various levels of the game
+based on the user's current progress
+*/
 void Load(vector<string> temp, string username)
 {
     if (WEAPON != 'S' && WEAPON != 'P')
@@ -221,15 +225,6 @@ void Load(vector<string> temp, string username)
         current_level = current_level + input;
     }
     //cout << current_level << endl;
-    Display(current_level);
-    Load(LEVEL_CODE, username);
+    Display(current_level);     // to display the level
+    Load(LEVEL_CODE, username); // recursive call
 }
-
-/*
-int main()
-{
-    LEVEL_CODE.push_back("0");
-    Display("0");
-    Load(LEVEL_CODE, "");
-}
-*/
