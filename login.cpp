@@ -32,13 +32,13 @@ void login()
             for (long unsigned int bcd = 0; bcd < 100000000; ++bcd)
                 ;
             system("clear");
-            sign_up();
+            sign_up(); //directing to signup if its a new username
             return;
         }
         else if (found(username) == 0)
             err_username = 1;
     } while (!err_username);
-    string *temp = new string;
+    string *temp = new string; //dynamic memory allocation
     (*temp) = username + ".txt";
     fstream object((*temp).c_str(), ios::in);
     string level_check;
@@ -55,7 +55,7 @@ void login()
         temp_vector.push_back(ch2);
     }
 
-    system("clear");
+    system("clear"); // to clear the terminal screen
     cout << "Hello " << username << endl;
     cout << "Your current progress is: " << level_check << endl;
     cout << "Welcome back to the game. Continue your quest and may the odds be ever in your favour.\n";
@@ -67,14 +67,5 @@ void login()
     output_content(temp_file);
     object.close();
     delete temp;
-    Load(temp_vector, username);
+    Load(temp_vector, username); // calling the load level function
 }
-
-/*
-int main()
-{
-    login();
-
-    return 0;
-}
-*/
