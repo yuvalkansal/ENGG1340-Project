@@ -4,7 +4,7 @@
 #include "output_content.h"
 
 using namespace std;
-
+//function to display the contents of any file
 void output_content(string level_file = "project_level.txt")
 {
     string file;
@@ -13,12 +13,5 @@ void output_content(string level_file = "project_level.txt")
     {
         cout << file << endl;
     }
+    fin.close();
 }
-
-/*
-int main()
-{
-    output_content();
-    return 0;
-}
-*/
