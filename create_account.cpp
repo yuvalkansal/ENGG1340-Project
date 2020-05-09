@@ -9,8 +9,10 @@
 #include "level_loader.h"
 
 using namespace std;
-
-void sign_up() /*this function is to let users create new accounts if the account doesnt exist already. It creates a file with the username and stores the password as well. If thwy want to issue the book, then it redirects them to the search option */
+/*this function is to let users create new accounts if the account doesnt exist already. 
+It creates a file with the username and stores the weapon choice and progress as well.
+*/
+void sign_up()
 {
     string check_arr;
     string username;
@@ -31,36 +33,26 @@ void sign_up() /*this function is to let users create new accounts if the accoun
         else if (found(username) == 1)
             err_username = 1;
     } while (!err_username);
-    check.open("ACCOUNTS.txt", ios::app);
+    check.open("ACCOUNTS.txt", ios::app); //putting the username is the accounts database
     check << username;
     check.put(' ');
-    string *temp = new string;
+    string *temp = new string; //dynamic memory allocation
     (*temp) = username + ".txt";
     sign_up_2.open((*temp).c_str(), ios::out);
     sign_up_2 << username;
     sign_up_2.put(' ');
     //instead of the next line, push the vector
-    sign_up_2.put('0');
+    sign_up_2.put('0'); // for current progress
     sign_up_2.put(' ');
-    sign_up_2.put('0');
+    sign_up_2.put('0'); // for weapon choice
     sign_up_2.close();
     check.close();
     delete temp;
-    // go to main menu
-    //level_loader();
+
     vector<string> temp_vector;
     temp_vector.push_back("0");
 
-    string temp_file = "0.txt";
-    output_content(temp_file);
-    Load(temp_vector, username);
+    string temp_file = "0.txt"; // this is the beginning file
+    output_content(temp_file.c_str());
+    Load(temp_vector, username); // calling the load function to continue game
 }
-
-/*
-int main()
-{
-    sign_up();
-
-    return 0;
-}
-*/
