@@ -3,18 +3,11 @@
 #include "login.h"
 #include "output_content.h"
 
-// do the help page ka system clear vaala part ---> DONE
-// store the weapon choice also ---> DONE
-// close all the files
-// make help page ---> Copy it from Abhigyan's mail
-// think of new and delete operator
-// update/beautify main page ---> DONE
-
 using namespace std;
 
-int main()
+int main() //main function. Game starts here
 {
-    output_content("main.txt");
+    output_content("main.txt"); // to display the beginning
     cout << "Welcome to our game THE CASTLE. You will have an enthrilling experience\nhenceforth!!! ";
     cout << "May the odds be ever in your favour.\nAre you an existing user or are you a new person looking for a great experience?\n";
     cout << "Press 1 if you are an existing user and 2 if you are new: ";
